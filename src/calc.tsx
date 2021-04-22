@@ -6,7 +6,6 @@ const Calc = () => {
     const [n,setN] = useState(0);
     const [k,setK] = useState(0);
     const [a,setA] = useState();
-    const [b,setB] = useState();
     const [op,setOp] = useState();
     const [r,setR] = useState(false);
     const [p,setP] = useState();
